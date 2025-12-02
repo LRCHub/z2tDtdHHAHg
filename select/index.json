@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HELP!!",
+  "base_artist": "Kobo Kanaeru",
+  "createdAt": "2025-12-02T03:31:26.995288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Help Falling in Love",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Can't_Help_Falling_in_Love_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Help Myself",
+      "artist": "Dean Brody feat. The Reklaws",
+      "has_synced": true,
+      "path": "select/02_Can't_Help_Myself_Dean_Brody_feat._The_Reklaws.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Help Myself",
+      "artist": "Dean Brody",
+      "has_synced": true,
+      "path": "select/03_Can't_Help_Myself_Dean_Brody.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/05_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Help Me Hold On (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/06_Help_Me_Hold_On_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help Me Hold On (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_Help_Me_Hold_On_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/08_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/09_Help_Me_Make_It_Through_The_Night_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/10_Help_Me_Make_It_Through_The_Night_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/11_Help_Me_Make_It_Through_the_Night_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/12_Help_Me_Make_It_Through_the_Night_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Help Pour Out the Rain (Lacy's Song)",
+      "artist": "Buddy Jewell",
+      "has_synced": true,
+      "path": "select/13_Help_Pour_Out_the_Rain_(Lacy's_Song)_Buddy_Jewell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Help Pour Out The Rain (Lacey's Song) (Album Version)",
+      "artist": "Buddy Jewell",
+      "has_synced": true,
+      "path": "select/14_Help_Pour_Out_The_Rain_(Lacey's_Song)_(Album_Version)_Buddy_Jewell.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/15_How_Can_I_Help_You_Say_Goodbye_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/16_How_Can_I_Help_You_Say_Goodbye_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Can Help - Single Version",
+      "artist": "Billy Swan",
+      "has_synced": true,
+      "path": "select/17_I_Can_Help_-_Single_Version_Billy_Swan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Can Help",
+      "artist": "Billy Swan",
+      "has_synced": true,
+      "path": "select/18_I_Can_Help_Billy_Swan.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Can Help",
+      "artist": "Billy Swan",
+      "has_synced": true,
+      "path": "select/19_I_Can_Help_Billy_Swan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HELP!!",
+      "artist": "Kobo Kanaeru",
+      "has_synced": false,
+      "path": "select/pl_01_HELP!!_Kobo_Kanaeru.txt"
+    }
+  ]
+}
